@@ -1,3 +1,5 @@
+Some necessary installations to setup ubuntu
+
 install unity-tweak-tool: 
 
 sudo apt-get install unity-tweak-tool   
