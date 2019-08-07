@@ -1,0 +1,46 @@
+setup sublime: 
+
+install http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-official-way/
+1. follow the tutorial here https://www.youtube.com/watch?v=zVLJfrIwEP8 
+then install package control 
+    - color scheme "dayle rees color scheme "
+install https://packagecontrol.io/packages/Colorsublime 
+initially try different color schemes: kane, nature, neon_kush, neonglow, solarsooty, warmneon, bashling, agoladark, adventure_time, darkside, yuba, glowfish, easyball, ILMHacker 
+   - theme 
+try different themes according to https://dev.to/kazup/10-best-sublime-text-themes-in-2018-53j5 
+and https://speckyboy.com/free-themes-sublime-text/ 
+now choose "Adaptive.sublime-theme" and "easyball" colorscheme 
+
+install tools:
+- brackethighlighter 
+- sidebarenhancement 
+- sublimecodeintel
+optional emmet 
+- sublimelinter ? 
+- origami
+- cobalt2  (only a theme, not installed)
+
+Font: firacode
+https://github.com/tonsky/FiraCode/wiki/Sublimetext-Instructions
+install each font by double clicking 
+https://github.com/tonsky/FiraCode/wiki/Linux-instructions#installing-with-a-package-manager 
+
+install CMakeEditor to analyze CMakeLists file 
+
+in the end my user settings:
+{
+"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Easyballs.tmTheme",
+"font_size": 10,
+"ignored_packages":
+[
+"Vintage"
+],
+"save_on_focus_lost": true,
+"sidebar_front_big": true,
+"theme": "Adaptive.sublime-theme",
+"font_face": "Fira Code Medium",
+"font_options":
+[
+"subpixel_antialias"
+]
+}
