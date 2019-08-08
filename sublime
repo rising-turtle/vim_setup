@@ -5,6 +5,8 @@ install http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-o
 then install package control 
     - color scheme "dayle rees color scheme "
 install https://packagecontrol.io/packages/Colorsublime 
+
+In the preferences of sublime, select color scheme accordingly  
 initially try different color schemes: kane, nature, neon_kush, neonglow, solarsooty, warmneon, bashling, agoladark, adventure_time, darkside, yuba, glowfish, easyball, ILMHacker 
    - theme 
 try different themes according to https://dev.to/kazup/10-best-sublime-text-themes-in-2018-53j5 
