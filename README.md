@@ -4,6 +4,9 @@ install unity-tweak-tool:
 
 sudo apt-get install unity-tweak-tool   
 
+For Ubuntu 22.04
+https://ubuntuhandbook.org/index.php/2022/05/install-themes-ubuntu-22-04/
+
 install theme flatabulous-theme:  
 
 sudo add-apt-repository ppa:noobslab/themes  
