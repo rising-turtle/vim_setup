@@ -22,6 +22,9 @@ sudo add-apt-repository ppa:noobslab/icons
 sudo apt-get update  
 sudo apt-get install ultra-flat-icons    
 
+download ultra icons here https://www.gnome-look.org/p/1171748 
+And then create a .icons folder under /home, and then copy and paste the downloaded icons to /home/.icons
+
 install mouse macbuntu-os-ithemes-lts-v7:  
 
 sudo add-apt-repository ppa:noobslab/macbuntu  
