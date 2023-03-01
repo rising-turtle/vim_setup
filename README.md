@@ -46,3 +46,6 @@ chsh -s /bin/zsh
 
 
 other details refer to https://www.jianshu.com/p/4bd2d9b1af41  
+
+To configure VIM, needs to down the vim folder into /home and rename it as .vim
+
