@@ -13,6 +13,9 @@ sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update  
 sudo apt-get install flatabulous-theme  
 
+disable terminal bell 
+open preferences in termial, and choose unnamed option, under text tab uncheck terminal bell
+
 install icon ultra-flat-icons:  
 
 sudo add-apt-repository ppa:noobslab/icons  
