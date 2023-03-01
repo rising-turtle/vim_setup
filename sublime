@@ -1,6 +1,9 @@
 setup sublime: 
 
 install http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-official-way/
+
+install sublime in ubuntu 22.04 https://www.how2shout.com/linux/2-ways-to-install-sublime-text-3-on-ubuntu-22-04-20-04/
+
 1. follow the tutorial here https://www.youtube.com/watch?v=zVLJfrIwEP8 
 then install package control 
     - color scheme "dayle rees color scheme "
